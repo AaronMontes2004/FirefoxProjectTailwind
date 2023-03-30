@@ -1,0 +1,1 @@
+Un proyecto de firefox desarrollado a modo de práctica Front-end
